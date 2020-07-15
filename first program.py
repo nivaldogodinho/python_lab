@@ -1,0 +1,5 @@
+print ('o meu primeiro programa em Pythom')
+num1 = int(input('Digite um numero:'))
+num2 = int(input('Digite outro numero:' ))
+print ('O resultado das entradas é: ',num1,'+',num2, 'que é',num1+num2)
+print ('Fim!')
